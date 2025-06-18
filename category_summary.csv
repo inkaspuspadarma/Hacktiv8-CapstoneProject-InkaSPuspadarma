@@ -1,0 +1,83 @@
+kategori,summary
+Login/Verification,"1. **Incorrect Verification**: Users frequently complain about issues with the verification process, where their personal information, such as name, is spelled incorrectly despite following the instructions correctly. They also report that the verification process is slow and unreliable, leading to wasted time and effort.
+
+2. **App Performance and Loading Issues**: Many users find the app to be buggy and slow, with absurdly long loading times, frequent crashes, and poor responsiveness. This makes basic functions like checking data usage, paying bills, or buying packages difficult and frustrating.
+
+3. **OTP and Login Problems**: A common complaint involves difficulties in entering One-Time Passwords (OTPs) for account-related activities, often being marked as invalid. Users also report being repeatedly logged out and having to re-enter login credentials every time they open the app.
+
+4. **Poor Customer Support and Ticket Management**: Users express dissatisfaction with the lack of transparency and inability to track support tickets related to IndiHome-specific issues. They claim that responses from customer service are generic and unhelpful, failing to address their concerns effectively.
+
+5. **Increasing Costs and Marketing Focus**: Some users complain about the rising costs of packages and services, along with an overemphasis on promoting additional features and products. This perceived prioritization of Telkomsel's marketing objectives over user experience leads to a negative perception of the app's value."
+Payment/Top-up,"1. **App Crashes and Loading Issues**: Users frequently report that the app crashes or takes a long time to load, particularly on the front page. This makes the process of topping up or purchasing packages frustrating and inconvenient.
+
+2. **Payment Processing Errors**: There are recurring complaints about payment failures when using credit cards, especially for international users. Some users also mention issues with processing transactions through the app, describing it as unreliable and buggy.
+
+3. **Inaccurate Balance Display**: A common grievance is the app showing insufficient balance when there is actually enough credit to activate a package or buy data. This discrepancy leads to failed transactions and customer dissatisfaction.
+
+4. **Removal of Basic Features**: Users express disappointment with the removal of essential features, making it difficult for them to perform simple tasks like buying data packages. This complexity, coupled with the high cost of packages, discourages customer loyalty.
+
+5. **Billing and Customer Service Issues**: Some users struggle to pay their bills through the app, encountering persistent errors despite attempting various troubleshooting steps. There are also calls for improved customer service and quicker resolution of these payment-related issues.
+
+6. **Lack of Support for Specific Payment Methods**: Certain users, especially those using international credit cards or preferring direct pulsa payments, report difficulties or inability to process transactions via the app, suggesting a need for broader payment method support.
+
+These complaints highlight the need for improvements in app stability, payment processing reliability, balance accuracy, feature accessibility, and customer service responsiveness to enhance user satisfaction."
+Crash/Bug/Error,"1. **Frequent Crashes and Ceaseless Loading Issues**: Users report that the app frequently crashes or gets stuck in an endless loading loop, making it impossible to open or use. This problem persists even after uninstalling and reinstalling the app multiple times. The loading time is described as taking an unusually long time, sometimes exceeding a minute, and remains an issue regardless of whether using Wi-Fi or mobile data.
+
+2. **Post-Update Bugs and Unresolved Issues**: Many users complain about bugs introduced with recent app updates. These include problems with opening the app, logging in, and accessing features, which remain unresolved despite reporting the issues and attempting troubleshooting steps like restarting their phones. Some users also mention that the app's performance has degraded since the last update, becoming slower and more unresponsive.
+
+3. **Data Usage and Bloat**: Users express frustration with the app's heavy data consumption and unnecessary features, which they perceive as bloat. The app is reported to use excessive data, even for basic functions, and some users suspect their data might be leaked. Additionally, the app's size has increased with updates, making it laggy and less efficient.
+
+4. **Purchase and Quota Management Issues**: There are complaints about sluggish performance when making purchases or checking quota details. Users report bugs such as incorrect quota displays, random GB readings, and problems with showing the correct quota dates.
+
+5. **Poor Customer Service and Lack of Improvement**: Users criticize the app developer (Telkomsel) for poor service quality, especially in a monopolistic area in Indonesia. They feel taken advantage of and demand improvements, including addressing existing bugs and providing better customer support. Some users suggest that the app would benefit from a new developer who understands user needs and prioritizes simplicity and usability."
+Performance/Slow,"1. **Slow Loading Times and Performance Issues**: Multiple users complain about the app taking an unusually long time to load, especially when checking internet quota, credit balance, or recent usage. This slow performance is a significant inconvenience, causing frustration and patience-testing experiences.
+
+2. **Confusing Navigation and Unclear Settings**: Users find the app's navigation and settings confusing, with language preferences not adhering to user choices, and important information like contract descriptions remaining in a language they do not understand (Indonesian).
+
+3. **Poor Responsiveness and Lag**: Many users report that the app is laggy and unresponsive, affecting basic functions like logging in, editing personal details, and managing internet packages. The heavy use of graphical assets is cited as a potential cause, leading to unoptimized performance.
+
+4. **Inefficient Quota Management**: Users express dissatisfaction with the app's quota management system, which is described as confusing, unpredictable, and failing to provide warnings about quota expiration. This results in unexpected balance deductions and an overall poor user experience.
+
+5. **Unresolved Bugs and Lack of Updates**: Some users report persistent issues even after attempting troubleshooting steps like clearing cache, reinstalling the app, or updating to the latest version. This suggests that underlying bugs remain unaddressed, negatively impacting the app's functionality and user satisfaction.
+
+Actionable summaries:
+- Optimize the app for faster loading times and smoother navigation to enhance user experience.
+- Implement a more intuitive and user-friendly interface with clearer language settings.
+- Address performance issues, particularly related to lag and responsiveness, to ensure basic functions work efficiently.
+- Improve the quota management system to provide clear warnings and accurate balance management.
+- Prioritize bug fixes and timely updates to maintain app stability and user trust."
+UI/UX/Navigability,"1. **Frequent Updates and Crashes**: Many users complain about the app requiring monthly updates, which often cause it to crash completely. This leads to uninstallation and reinstallation, causing inconvenience.
+
+2. **Slow Loading and Bugs**: A common complaint is the app's slow loading times, especially when trying to access basic information like quota amounts, credit, or data usage. The issue persists despite updates, leading users to believe developers are apathetic towards fixing it.
+
+3. **Unnecessary Features and Bloat**: Users find the app cluttered with many unnecessary features, making it confusing and slow. They request a simpler, lighter version focusing on essential functions, as the current design seems overly complex and bloated.
+
+4. **Poor Navigation and Layout**: The app's interface is criticized for being difficult to navigate, with confusing layout positioning and a steep learning curve. Some users mention that essential features are hard to find, and the overall design is too complicated.
+
+5. **Performance Issues with Internet Packages**: Users report problems with internet speed and package management, especially in rural areas. They also complain about the app not accurately displaying remaining data, credit, or SIM card information.
+
+6. **Lack of Read Function for Notifications**: Some users miss the 'mark read' function for notifications, which made managing inbox messages more efficient. Its absence is noted as a negative aspect of the app's design.
+
+7. **Advertisement Clarity and Placement**: Users find advertisements unclear or intrusive, making it difficult to distinguish them from the actual app content. They suggest moving ads to less obtrusive areas within the app.
+
+8. **Expensive Pricing and Subscription Confusion**: Several users feel that the app's pricing is too high, and there's confusion regarding included internet packages and subscriptions. Some believe the app forces them to spend more on internet packages than necessary.
+
+In summary, the most common complaints revolve around the app's frequent updates causing crashes, slow loading times, unnecessary and bloated features, poor navigation, inaccurate package and data management, absence of the 'mark read' function for notifications, unclear ad placements, and high pricing with subscription confusion."
+Package/Data/Promo,"1. **Expired Data Packages**: Several users complain about their data packages expiring prematurely, leading to loss of previously purchased data. This issue is often accompanied by weak network signals, causing inconvenience and frustration.
+
+2. **Declining Service Quality**: There's a recurring complaint about the deteriorating quality of service over the years. Users express dissatisfaction with additional subscriptions being added without their consent, which they perceive as a betrayal of loyal customer service.
+
+3. **Poor Network Coverage and App Issues**: The network quality is consistently criticized as poor, resulting in weak signals and poor connectivity. Additionally, users find the service provider's app unsatisfactory, citing issues like unexpected reductions in credit and difficulty in managing data packages.
+
+4. **Inadequate Expiration Date Notifications**: Users report receiving insufficient notice about their data package expiration dates. They claim to be given expiration dates that are too close, sometimes only a few hours after purchase, leading to unexpected data loss.
+
+5. **Accidental Credit Depletion**: A few users mention accidentally spending their credit due to unclear app interfaces or insufficient warnings, resulting in reduced credit availability.
+
+These complaints highlight the need for improvements in data package management, clearer communication about expiration dates, enhanced network quality, and a more user-friendly app experience."
+Other,"1. **Language Barrier and Interface Issues**: Several users complain about the app being predominantly in Indonesian Bahasa, making it difficult to navigate for non-fluent users. The setting changes to Bahasa instead of English are a significant pain point. Universal symbols on the front page are not clearly understood, causing confusion and frustration.
+
+2. **Misleading Promotions and Pricing**: There are accusations of fraudulent practices, such as providing inconsistent KGB data for different users and updating packages without reducing prices or quotas as advertised. Users feel deceived by promotional names that don't reflect the actual value or cost, finding cheaper alternatives elsewhere, like Pulse, which is significantly more economical than the service offered.
+
+3. **Usability and Bug Concerns**: The new version is criticized for being overly complex compared to its predecessor, making it harder to load and use. Many users report experiencing numerous bugs, with responses from customer service appearing mostly automated and unhelpful. Platinum members, who expected better support, express dissatisfaction with ongoing issues that remain unresolved despite attempts to contact support.
+
+These complaints highlight the need for the app to improve its user interface by providing more language options, ensuring accurate and transparent promotional information, and addressing persistent usability and bug issues to enhance the overall user experience."
