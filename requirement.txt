@@ -1,0 +1,11 @@
+streamlit>=1.32.0
+pandas
+numpy
+matplotlib
+wordcloud
+contractions
+nltk
+replicate
+langchain_community
+google-play-scraper
+pillow
