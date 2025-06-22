@@ -17,9 +17,9 @@ https://play.google.com/store/apps/details?id=com.telkomsel.telkomselcm&hl=id
 
 ## 📊 Insight & Findings
 
-### 💡 Insight & Findings
+## 💡 Insight & Findings
 
-### 🔴 Sentimen Negatif (93%)
+## 🔴 Sentimen Negatif (93%)
 Sebagian besar komentar menunjukkan rasa frustrasi yang tinggi terhadap performa, navigasi, dan kestabilan aplikasi.
 
 Top Issues Identified:
@@ -31,31 +31,31 @@ Top Issues Identified:
 
 “Dulu simple. Sekarang ribet dan berat. Fitur makin banyak, tapi gunanya makin sedikit.” – salah satu ulasan populer
 
-### 🟡 Sentimen Netral (6%)
+## 🟡 Sentimen Netral (6%)
 Berisi fakta teknis dan laporan pengalaman yang mendetail, seringkali disertai keluhan ringan atau permintaan perbaikan kecil.
 
-### 🟢 Sentimen Positif (1%)
+## 🟢 Sentimen Positif (1%)
 Sedikit review yang menyampaikan harapan agar aplikasi diperbaiki dan menjadi lebih stabil di masa depan.
 
-### 🧠 Most Agreed Complaints (Top 5)
+## 🧠 Most Agreed Complaints (Top 5)
 1. Tidak bisa mengedit informasi personal
 2. Aplikasi sangat lambat dan membingungkan
 3. Crash terus saat dibuka
 4. Harga layanan naik, fitur tidak maksimal
 5. Login gagal dan OTP sering error
 
-### 🤖 AI Support Explanation
+## 🤖 AI Support Explanation
 | Tahap Analisis           | Model AI                   | Fungsi Utama                                               |
 | ------------------------ | -------------------------- | ---------------------------------------------------------- |
 | Sentiment Classification | IBM Granite 3-8b-instruct  | Menganalisis polaritas sentimen (positif, netral, negatif) |
 | Complaint Categorization | IBM Granite (prompt-based) | Mengklasifikasikan ulasan ke 7 kategori keluhan utama      |
 | Summarization            | IBM Granite Summarizer     | Merangkum komentar ke dalam narasi insight                 |
 
-### 🧪 Streamlit Dashboard Overview
+## 🧪 Streamlit Dashboard Overview
 Dashboard ini dibangun untuk menampilkan hasil analisis sentimen dan keluhan pengguna MyTelkomsel secara interaktif dan visual.
 
 Berikut merupakan dashboard visualisasi insight dari MyTelkomsel
 🔗 https://hacktiv8-capstoneproject-mytelkomsel-inkaspuspadarma.streamlit.app/
 
-### ✨ Created with purpose by Inka Sharatu Puspadarma
+## ✨ Created with purpose by Inka Sharatu Puspadarma
 Hacktiv8 Capstone Project – June 2025
