@@ -19,7 +19,7 @@ https://play.google.com/store/apps/details?id=com.telkomsel.telkomselcm&hl=id
 
 ### 💡 Insight & Findings
 
-#### 🔴 Sentimen Negatif (93%)
+### 🔴 Sentimen Negatif (93%)
 Sebagian besar komentar menunjukkan rasa frustrasi yang tinggi terhadap performa, navigasi, dan kestabilan aplikasi.
 
 Top Issues Identified:
@@ -31,10 +31,10 @@ Top Issues Identified:
 
 “Dulu simple. Sekarang ribet dan berat. Fitur makin banyak, tapi gunanya makin sedikit.” – salah satu ulasan populer
 
-#### 🟡 Sentimen Netral (6%)
+### 🟡 Sentimen Netral (6%)
 Berisi fakta teknis dan laporan pengalaman yang mendetail, seringkali disertai keluhan ringan atau permintaan perbaikan kecil.
 
-#### 🟢 Sentimen Positif (1%)
+### 🟢 Sentimen Positif (1%)
 Sedikit review yang menyampaikan harapan agar aplikasi diperbaiki dan menjadi lebih stabil di masa depan.
 
 ### 🧠 Most Agreed Complaints (Top 5)
