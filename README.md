@@ -15,8 +15,6 @@ Proyek ini bertujuan untuk menggali sentimen dan keluhan utama pengguna MyTelkom
 Dataset diambil dengan metode scraping dari Google Play Review MyTelkomsel
 https://play.google.com/store/apps/details?id=com.telkomsel.telkomselcm&hl=id
 
-## 📊 Insight & Findings
-
 ## 💡 Insight & Findings
 
 ## 🔴 Sentimen Negatif (93%)
